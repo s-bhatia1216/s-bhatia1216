@@ -48,21 +48,9 @@ I'm an aspiring **AI/ML Engineer** and **Scientific Programmer** with a passion 
 
 ---
 
-## 📈 GitHub Stats
-![Sonal Bhatia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-bhatia1216&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-bhatia1216&layout=compact&theme=dracula)
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sbhatia1216) 🔗
 - [Email](mailto:sbhatia1216@gmail.com) 📧
-
----
-
-## 🗓️ Recent Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s-bhatia1216&theme=dracula)
 
 ---
 
