@@ -40,7 +40,7 @@ Currently, I'm an AI Intern in the System Performance Architecture group within 
 
 ---
 
-### 🧠 [neuroboost](https://github.com/s-bhatia1216/neuroboost)
+### 🧠 [neuroboost POC](https://github.com/s-bhatia1216/neuroboost)
 *Implementing CNNs and RNNs to analyze and predict trends in cognitive function.*
 
 - **Overview:** Proof of concept utilizing deep learning models for cognitive trend analysis.
