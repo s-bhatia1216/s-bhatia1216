@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sonal Bhatia!
 
 ## 🚀 About Me
-I'm an aspiring **AI/ML Engineer** and **Scientific Programmer** with a passion for integrating advanced ML technologies into aerospace solutions. My expertise spans scientific programming in Python, software development in Java and C++, and a keen interest in the intersections of AI/ML, robotics, and aerospace. 
+I'm an aspiring **AI/ML Engineer** and **Scientific Programmer** with skills spanning across scientific programming in Python, software development in Java and C++, and a keen interest in the intersections of AI/ML, robotics, and aerospace. 
 
 Currently, I'm an AI Intern in the System Performance Architecture group within Hardware Engineering at Apple Inc. My opinions, repos and other content here are not a reflection of my employers, unless otherwise specified or agreed. I am making my contributions/submissions to the projects in my personal capacity and am not conveying any rights to any intellectual property of any third parties.
 
