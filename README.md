@@ -17,7 +17,8 @@ Currently, I'm an AI Intern in the System Performance Architecture group within 
 - **Technologies:** Python, PyTorch MPS
 - **Features:** Significant performance increase while running Shap-E locally on Mac M-series, for example, on a Mac mini (M4 Pro), default image-to-3D generation time drops from 4 hours to just under 4 minutes when switching from CPU to GPU via MPS.
 - **📄 [View Pull Request](https://github.com/openai/shap-e/pull/159)**
-
+  
+---
 ### 💄 [Unwrapping Customer Delight](https://github.com/s-bhatia1216/unwrapping-customer-delight)
 *Using Frequentist and Bayesian Regression Models to Optimize Surprise Gift Strategies*
 
