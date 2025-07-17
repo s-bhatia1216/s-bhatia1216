@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sonal Bhatia!
 
 ## 🚀 About Me
-I'm an aspiring **AI/ML Engineer** and **Scientific Programmer** with skills spanning across scientific programming in Python, software development in Java and C++, and a keen interest in the intersections of AI/ML, robotics, and aerospace. 
+I'm an aspiring **AI/ML Engineer** and **Scientific Programmer** with skills spanning across scientific programming in Python, software development in Java and C++, and a keen interest in the intersections of AI/ML, peformance analysis, robotics, and aerospace. 
 
 Currently, I'm an AI Intern in the System Performance Architecture group within Hardware Engineering at Apple Inc. My opinions, repos and other content here are not a reflection of my employers, unless otherwise specified or agreed. I am making my contributions/submissions to the projects in my personal capacity and am not conveying any rights to any intellectual property of any third parties.
 
@@ -10,6 +10,13 @@ Currently, I'm an AI Intern in the System Performance Architecture group within 
 ---
 
 ## 🛠️ Some of My Projects
+
+### 📐 [Shap-E Open Source Contribution: MPS-Support]
+*APPLE: Enabling Shap-E to run on Apple Silicon GPUs via Metal Performance Shaders (MPS) Acceleration*
+- **Overview:** Shap-E falls back to CPU on Apple M-series machines because certain indexing ops are not yet supported by PyTorch-MPS. This PR removes that blocker, giving native-GPU performance on macOS without sacrificing CUDA/CPU compatibility.
+- **Technologies:** Python, PyTorch MPS
+- **Features:** Significant performance increase while running Shap-E locally on Mac M-series, for example, on a Mac mini (M4 Pro), default image-to-3D generation time drops from 4 hours to just under 4 minutes when switching from CPU to GPU via MPS.
+- **📄 [View Pull Request](https://github.com/openai/shap-e/pull/159)**
 
 ### 💄 [Unwrapping Customer Delight](https://github.com/s-bhatia1216/unwrapping-customer-delight)
 *Using Frequentist and Bayesian Regression Models to Optimize Surprise Gift Strategies*
