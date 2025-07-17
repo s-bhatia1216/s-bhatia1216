@@ -11,7 +11,7 @@ Currently, I'm an AI Intern in the System Performance Architecture group within 
 
 ## 🛠️ Some of My Projects
 
-### 📐 [Shap-E Open Source Contribution: MPS-Support]
+### 📐 [Shap-E](https://github.com/s-bhatia1216/shap-e/tree/mps-support)
 *APPLE: Enabling Shap-E to run on Apple Silicon GPUs via Metal Performance Shaders (MPS) Acceleration*
 - **Overview:** Shap-E falls back to CPU on Apple M-series machines because certain indexing ops are not yet supported by PyTorch-MPS. This PR removes that blocker, giving native-GPU performance on macOS without sacrificing CUDA/CPU compatibility.
 - **Technologies:** Python, PyTorch MPS
