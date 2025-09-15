@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm an aspiring **AI/ML Engineer** with skills spanning across scientific programming in Python, software development in Java and C++, and a keen interest in the intersections of AI/ML, peformance analysis, robotics, and aerospace. 
 
-From January - August 2025, I'm working as an AI Intern in the System Performance Architecture group within Hardware Engineering at Apple Inc. My opinions, repos and other content here are not a reflection of my employers, unless otherwise specified or agreed. I am making my contributions/submissions to the projects in my personal capacity and am not conveying any rights to any intellectual property of any third parties.
+From January - August 2025, I worked as an AI Intern in the System Performance Architecture group within Hardware Engineering at Apple Inc. My opinions, repos and other content here are not a reflection of my employers, unless otherwise specified or agreed. I am making my contributions/submissions to the projects in my personal capacity and am not conveying any rights to any intellectual property of any third parties.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sbhatia1216)
 
