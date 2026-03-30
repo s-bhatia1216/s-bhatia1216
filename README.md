@@ -15,7 +15,7 @@
 
 ---
 ### 📈 [StockSwipe](https://github.com/s-bhatia1216/stockswipe)
-*Tinder-style stock discovery powered by Claude AI — Built for the AI@Princeton x Trade[XYZ] Hackathon*
+*Tinder-style stock discovery powered by Claude AI - Built for the AI@Princeton x Trade[XYZ] Hackathon*
 - **Overview:** A mobile-first investing experience where users swipe right to invest and left to skip, with flippable cards showing live AI analysis, real-time news, and interactive charts.
 - **Technologies:** React 18, Vite, Framer Motion, Express (Node.js), Anthropic SDK (Claude Haiku + Sonnet), Yahoo Finance, Finnhub API, YouTube Data API
 - **Features:** Physics-based swipe gestures, Claude-generated stock hooks, AI portfolio analysis with Risk Radar, gamified streaks & badges, social friends feed & leaderboard, vertical Reels feed.
@@ -23,8 +23,8 @@
 
 ---
 ### 💊 [NANI](https://github.com/s-bhatia1216/nani)
-*An AI-powered compassionate medicine companion for elderly patients — Built for HackPrinceton F25*
-- **Overview:** NANI ("grandmother" in Hindi) is a full-stack IoT medication adherence system that uses IR beam sensors to passively detect when medication is taken and a voice-first AI assistant to answer health questions in multiple languages—keeping patients independent while keeping families informed.
+*An AI-powered compassionate medicine companion for elderly patients - Built for HackPrinceton F25*
+- **Overview:** NANI ("grandmother" in Hindi) is a full-stack IoT medication adherence system that uses IR beam sensors to passively detect when medication is taken and a voice-first AI assistant to answer health questions in multiple languages-keeping patients independent while keeping families informed.
 - **Technologies:** Raspberry Pi (Python, FastAPI), Node.js (Express, OpenAI Whisper/GPT-4o-mini/TTS), Swift (iOS), Google Sheets (data logging)
 - **Features:** Passive IR beam medication detection, bilingual voice assistant (English/Hindi), real-time Care Circle notifications for family and caregivers, cultural sensitivity, automatic adherence tracking.
 - **🎥 [Watch Demo]([https://youtu.be/y7C8Kh3Aam4](https://youtu.be/y7C8Kh3Aam4))**
