@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sonal!
+## 👋 Hi there, I'm Sonal!
 ## 🚀 About Me
 
 ##### I'm an aspiring **AI/ML Engineer** with skills spanning across scientific programming in Python, software development in Java and C++, and a keen interest in the intersections of AI/ML, performance analysis, robotics, and aerospace. 
