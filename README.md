@@ -7,6 +7,32 @@
 
 ---
 ## 🛠️ Some of My Projects
+
+### 🌌 [constellation-analyzer](https://github.com/s-bhatia1216/constellation-analyzer)
+*Interactive LEO constellation simulation for assessing a 1 GW space-based data center — Built for MAE 426*
+- **Overview:** A browser-based orbital mechanics simulator for designing and analyzing low Earth orbit satellite constellations. Explores the architecture behind a 1 GW solar-powered space data center by letting users tune constellation parameters and see real-time coverage, gap, and power metrics.
+- **Technologies:** Three.js r128, Vanilla HTML/CSS/JS (no build step, no dependencies)
+- **Features:** Live orbital simulation with adjustable planes, inclination, altitude, and phase offset; Starlink/OneWeb/Polar presets; coverage %, gap time, orbital period, and footprint area metrics computed client-side.
+
+---
+
+### 🚂 [Mt. Rainier Railroad — Bench 5](https://github.com/s-bhatia1216/mt-rainier-railroad)
+*Autonomous track switching, obstacle detection, and train control — MAE 412 Capstone*
+- **Overview:** An embedded systems capstone simulating a segment of the Mount Rainier Scenic Railroad. The Vector Board Arduino autonomously manages track switches, detects fallen tree obstacles via ToF sensors, and forwards DCC speed/direction commands through a Python passthrough to a command station.
+- **Technologies:** Arduino (C++), Python (serial bridge), VL53L0X ToF sensors (I2C), ACIA/SoftwareSerial, DCC, Fusion 360
+- **Features:** Timed 3-pattern switch cycling triggered by train occupancy detection, dual-sensor obstacle detection with automatic track power cutoff, randomized servo-driven scenery animation, assembly firmware for signal sensor board.
+
+---
+
+### 🚶 [pedestrian-detection](https://github.com/s-bhatia1216/pedestrian-detection)
+*Benchmarking HOG, Faster R-CNN, DETR, and SAM2 on the PnPLO Pedestrian Dataset — Princeton University*
+- **Overview:** A controlled architecture-level comparison of four pedestrian detection paradigms evaluated on the PnPLO (Person vs. Person-Like Objects) dataset, focusing on robustness to false positives from statues, mannequins, and other visually similar non-pedestrians.
+- **Technologies:** Python, PyTorch, torchvision, OpenCV, NumPy, Matplotlib, Seaborn, Google Colab
+- **Features:** Unified evaluation pipeline with precision, recall, F1, mAP, false positive breakdowns, PR curves, and confusion matrices across HOG+SVM, Faster R-CNN, DETR, and YOLO+SAM2.
+- **📄 [View Full Report](written_report.pdf)**
+
+---
+
 ### 📐 [Shap-E](https://github.com/s-bhatia1216/shap-e/tree/mps-support)
 *APPLE: Enabling Shap-E to run on Apple Silicon GPUs via Metal Performance Shaders (MPS) Acceleration*
 - **Overview:** Shap-E falls back to CPU on Apple M-series machines because certain indexing ops are not yet supported by PyTorch-MPS. This PR removes that blocker, giving native-GPU performance on macOS without sacrificing CUDA/CPU compatibility.
@@ -15,6 +41,7 @@
 - **📄 [View Pull Request](https://github.com/openai/shap-e/pull/159)**
 
 ---
+
 ### 📈 [StockSwipe](https://github.com/s-bhatia1216/stockswipe)
 *Tinder-style stock discovery powered by Claude AI — Built for the AI@Princeton x Trade[XYZ] Hackathon*
 - **Overview:** A mobile-first investing experience where users swipe right to invest and left to skip, with flippable cards showing live AI analysis, real-time news, and interactive charts.
@@ -23,6 +50,7 @@
 - **🎥 [Watch Demo](https://youtube.com/shorts/up3gJdMNWNM?feature=share)**
 
 ---
+
 ### 💊 [NANI](https://github.com/s-bhatia1216/nani)
 *An AI-powered compassionate medicine companion for elderly patients — Built for HackPrinceton F25*
 - **Overview:** NANI ("grandmother" in Hindi) is a full-stack IoT medication adherence system that uses IR beam sensors to passively detect when medication is taken and a voice-first AI assistant to answer health questions in multiple languages — keeping patients independent while keeping families informed.
@@ -31,6 +59,7 @@
 - **🎥 [Watch Demo](https://youtu.be/y7C8Kh3Aam4)**
 
 ---
+
 ### 💄 [Unwrapping Customer Delight](https://github.com/s-bhatia1216/unwrapping-customer-delight)
 *Using Frequentist and Bayesian Regression Models to Optimize Surprise Gift Strategies*
 - **Overview:** Developed a Bayesian Regression Discontinuity Design to evaluate and optimize the return on investment of surprise gift campaigns.
@@ -39,6 +68,7 @@
 - **📄 [View Project README](https://github.com/s-bhatia1216/unwrapping-customer-delight/blob/main/README.md)**
 
 ---
+
 ### 🏠 [airbnbpriceprediction](https://github.com/s-bhatia1216/airbnbpriceprediction)
 *Predicting Airbnb listing prices in New York City using various regression models.*
 - **Overview:** Developed models to predict Airbnb prices, with the Random Forest model showing the best performance.
@@ -47,6 +77,7 @@
 - **📄 [View Project README](https://github.com/s-bhatia1216/airbnbpriceprediction/blob/main/README.md)**
 
 ---
+
 ### 🕺 [naacho-website](https://github.com/s-bhatia1216/naacho-website)
 *Modern and responsive website for Naacho Dance Company at Princeton.*
 - **Overview:** Features event details, member bios, and integrated Google Maps for location information.
@@ -55,6 +86,7 @@
 - **📄 [View Project README](https://github.com/s-bhatia1216/naacho-website/blob/main/README.md)**
 
 ---
+
 ### 🧠 [neuroboost POC](https://github.com/s-bhatia1216/neuroboost)
 *Implementing CNNs and RNNs to analyze and predict trends in cognitive function.*
 - **Overview:** Proof of concept utilizing deep learning models for cognitive trend analysis.
@@ -63,6 +95,7 @@
 - **📄 [View Project README](https://github.com/s-bhatia1216/neuroboost/blob/main/README.md)**
 
 ---
+
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sbhatia1216) 🔗
 - [Email](mailto:sbhatia1216@gmail.com) 📧
